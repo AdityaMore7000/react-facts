@@ -1,6 +1,6 @@
 const Main = () => {
     return ( 
-        <div className="bg-slate-800 h-full">
+        <div>
         <h1 className="text-6xl text-white p-4">Fun facts about React</h1>
         <ul className="text-white p-10 text-4xl">
             <li className="list-disc my-7 marker:text-blue-500">Was released in 2013</li>
